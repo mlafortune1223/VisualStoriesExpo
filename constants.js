@@ -1,0 +1,21 @@
+export const actions={
+    setColor: 'setcolor',
+    setWidth: 'setwidth',
+    setStrokeWidth: 'setstrokewidth',
+    clearData: 'cleardata',
+    setStrokeStyle:'setstrokestyle',
+    setImage:'setImage',
+    undo:'undo',
+    getPoints:'getPoints',
+    setStrokeWidth:'setStrokeWidth',
+    penStroke:1,
+    pencilStroke:2,
+    markerStroke:3,
+    slicedStroke:4,
+    multipleLines:5,
+    waterEffect:6,
+    stars:7,
+    verticalLine:8,
+    sprayBrush:9,
+    rings:10
+};
